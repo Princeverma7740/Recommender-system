@@ -14,3 +14,6 @@ then applied the cosine similarity matrix.
 
 flask web app 
 you can direcclty import in pycharm and run it. very minimal styling done.
+
+
+procfile req file for deployment purposes.
